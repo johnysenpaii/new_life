@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+:root {
+	--clr-primary-200: #f6f8fa;
+	--clr-primary-300: #bdc3cf;
+	--clr-primary-400: #596476;
+	--clr-primary-500: #9132da;
+	--clr-primary-600: #5944c7;
+	--clr-primary-800: #26262d;
+	--clr-neutral-100: #fff;
+
+	--ff-primary: "Montserrat", sans-serif;
+	--ff-title: "Stick No Bills", sans-serif;
+	--ff-secondary: "Poppins", sans-serif;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+html {
+	height: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+body {
+	margin: 0;
+	font-family: var(--ff-secondary);
+}
+body {
+	background-color: var(--clr-primary-200);
+}
