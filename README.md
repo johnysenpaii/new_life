@@ -1,1 +1,1 @@
-# new_life
+[# new_life](https://johnysenpaii.github.io/new_life/)
