@@ -317,7 +317,7 @@ body {
 .adduserbtn {
 	text-align: end;
 }
-.adduserbtn button {
+.adduserbtn a {
 	background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%);
 	border-radius: 50px;
 	border: 0;
@@ -325,8 +325,9 @@ body {
 	font-weight: 600;
 	font-size: 14px;
 	padding: 0.5em 1em;
+	text-decoration: none;
 }
-.adduserbtn button i {
+.adduserbtn a i {
 	padding-right: 0.5em;
 }
 .tb-bg {
@@ -415,4 +416,16 @@ body {
 .btn2 {
 	text-align: center;
 	margin: 2em 0 0 0;
+}
+.btn2 button {
+	background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%);
+	border-radius: 50px;
+	border: 0;
+	color: var(--clr-neutral-100);
+	font-weight: 600;
+	font-size: 14px;
+	padding: 0.5em 1em;
+}
+.btn2 button i {
+	padding-right: 0.5em;
 }

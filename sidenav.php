@@ -8,13 +8,13 @@
         </div>
         <ul class="nav_list">
             <li>
-                <a href="">
+                <a href="dashboard.php">
                     <i class="fa-solid fa-table-columns"></i>
                     <span class="links-name">Dashboard</span>
                 </a>
             </li>
             <li>
-                <a href="">
+                <a href="users.php">
                     <i class="fa-solid fa-user"></i>
                     <span class="links-name">Users</span>
                 </a>

@@ -18,7 +18,7 @@
         <?php include('../topnav.php');?>
         <section>
             <div class="dashboard-text adduserbtn">
-                <button><i class="fa-solid fa-circle-plus"></i> ADD USER</button>
+                <a href="./adduser.php"><i class="fa-solid fa-circle-plus"></i> ADD USER</a>
             </div>
         </section>
         <section>
